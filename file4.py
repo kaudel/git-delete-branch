@@ -1,0 +1,1 @@
+print("The music is reversible, the time is not")
